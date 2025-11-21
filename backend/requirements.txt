@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+requests==2.32.3
+rembg==2.0.57
+python-dotenv==1.0.1
+Pillow==10.4.0
+
